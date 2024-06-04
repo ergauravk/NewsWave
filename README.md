@@ -1,7 +1,7 @@
 #NewsWave App build by using React + Vite + Bootstrap + News Api 
 
            
-<img src="screen" alt="Logo" width="80" height="80">
+<img src="	https://github.com/ergauravk/NewsWave/blob/main/Screenshot%202024-06-04%20122324.png?raw=true" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">NewsWave</h3>
 <p align="center">
