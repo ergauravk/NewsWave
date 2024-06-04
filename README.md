@@ -1,23 +1,12 @@
 #NewsWave App build by using React + Vite + Bootstrap + News Api 
 
            
-<br/>
-<div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="" alt="Logo" width="80" height="80">
+<img src="screen" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">NewsWave</h3>
 <p align="center">
 An awesome news web app for latest news.
-<br/>
-<br/>
-<a href=""><strong>Explore the docs »</strong></a>
-<br/>
-<br/>
-<a href="">View Demo .</a>  
-<a href="">Report Bug .</a>
-<a href="">Request Feature</a>
-</p>
+
 </div>
 
  ### Built With
